@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Sep 2024 17:42:44 at https://www.rekoroyun.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.rekoroyun.com -O1 "C:\My Web Sites\oyun" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:46	Warning: 	Link https://www.rekoroyun.com/embed/recep-ivedik/ not scanned (follow robots meta tag)
+18:21:49	Warning: 	Link https://www.rekoroyun.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+18:24:08	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=479 not scanned (follow robots meta tag)
+18:25:22	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2558 not scanned (follow robots meta tag)
+18:25:23	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2556 not scanned (follow robots meta tag)
+18:25:24	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2606 not scanned (follow robots meta tag)
+18:28:48	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3415 not scanned (follow robots meta tag)
+18:28:48	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3437 not scanned (follow robots meta tag)
+18:28:48	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3424 not scanned (follow robots meta tag)
+18:28:49	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3464 not scanned (follow robots meta tag)
+18:28:49	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3436 not scanned (follow robots meta tag)
+18:28:49	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3479 not scanned (follow robots meta tag)
+18:35:39	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3061 not scanned (follow robots meta tag)
+18:37:08	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2516 not scanned (follow robots meta tag)
+18:37:55	Warning: 	Link https://www.rekoroyun.com/embed/mangala/ not scanned (follow robots meta tag)
+18:37:58	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=1223 not scanned (follow robots meta tag)
+18:48:10	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2542 not scanned (follow robots meta tag)
+18:48:15	Warning: 	Link https://www.rekoroyun.com/embed/adam-asmaca/ not scanned (follow robots meta tag)
+18:48:54	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=1676 not scanned (follow robots meta tag)
+18:48:54	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=1162 not scanned (follow robots meta tag)
+18:50:18	Error: 	"Unknown error" (520) at link https://www.rekoroyun.com/resim/cop-adam-boks.jpg (from https://www.rekoroyun.com/cop-adam-boks.html)
+18:52:25	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3435 not scanned (follow robots meta tag)
+18:52:25	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3419 not scanned (follow robots meta tag)
+18:52:25	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3457 not scanned (follow robots meta tag)
+18:52:31	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2439 not scanned (follow robots meta tag)
+18:53:10	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3381 not scanned (follow robots meta tag)
+18:53:10	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=3630 not scanned (follow robots meta tag)
+18:53:13	Warning: 	Link https://www.rekoroyun.com/embed/flash/?id=2548 not scanned (follow robots meta tag)
+18:54:58	Error: 	"Not Found" (404) at link https://www.rekoroyun.com/404 (from https://www.rekoroyun.com/embed/okey/css/style.css?ver=1.01)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 12 minutes 48 seconds : 16376 links scanned, 16373 files written (808633456 bytes overall) [755386069 bytes received at 172936 bytes/sec], 99952591 bytes transferred using HTTP compression in 5888 files, ratio 31%, 309.6 requests per connection
+(2 errors, 27 warnings, 0 messages)

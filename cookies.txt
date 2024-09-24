@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rekoroyun.com	TRUE	/	FALSE	1999999999	PHPSESSID	76vfn2o9fbrvi7qjccsbp9aolv
+www.rekoroyun.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.rekoroyun.com	TRUE	/	FALSE	1999999999	rekoroyun-sonoyunlar	%23743%234218%233294%232889
+
